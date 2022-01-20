@@ -2,8 +2,10 @@
 
         //
         // https://dvic.devinci.fr/first-steps-with-babylon-js
+        // ============================ COMPLETE TUTORIAL AT THE ABOVE ADDRESS ============================
         //
-        // ============================ COMPLETE TUTORIAL IN THE LINK ABOVE ============================
+        // https://faber-smythe.github.io/babylon-tutorials/
+        // ============================ LIVE DEMO AT THE ABOVE ADDRESS ============================
 
         /* ---------------------------------------------
         *  Step 1 - Canvas, Engine and Scene
